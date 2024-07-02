@@ -10,7 +10,7 @@ As a vehicle salesperson, its desired to create a model that can estimate the ov
 1. customer name,
 2. customer email,
 3. country,
-4.5gender,
+4. gender,
 5. age,
 6. annual salary,
 7. credit card debt, and
